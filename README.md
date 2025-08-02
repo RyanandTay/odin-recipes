@@ -1,0 +1,1 @@
+This is a practice project where I am creating a basic recipes website using HTML. I will add CSS later to spruce it up. 
