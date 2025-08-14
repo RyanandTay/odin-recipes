@@ -1,0 +1,37 @@
+/* Universal box-sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Define formats of index page links */
+.link-container {
+    width:500px;
+    border: 1px solid black;
+    
+}
+
+.link-individual {
+    margin: 20px 10px;
+    background-color: rgb(125, 215, 243);
+}
+
+/* Define format of main titles on each page */
+.title.title-text {
+    border: 3px solid black;
+    background-color:rgb(233, 181, 104);
+    width:400px
+}
+
+/* Format that applies for all titles */
+.title-text {
+    width: 400px;
+    margin: 20px auto 20px;
+    text-align: center;
+}
+
+.title-text-container {
+    padding: 20px, 0;
+    background-color: rgb(125, 215, 243);
+}
